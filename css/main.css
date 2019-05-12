@@ -1343,8 +1343,7 @@ input::-moz-focus-inner {
   transition: all 0.3s ease-in-out;
 }
 .header-logo img {
-  width: 230px;
-  height: 44px;
+  width: 150px;
 }
 
 
